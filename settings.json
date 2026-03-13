@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "AURA Bot",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
+    "ip": "ultracraft121.aternos.me",
     "port": 62213,
     "version": "",
     "try-creative": false
