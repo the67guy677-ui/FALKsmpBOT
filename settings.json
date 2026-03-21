@@ -1,14 +1,14 @@
 {
-  "name": "FALK24/7",
+  "name": "AFK_BOT",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "FALKsmp.aternos.me
 ",
-    "port": 39560,
+    "port": 50406,
     "version": "1.21.11",
     "try-creative": false
   },
